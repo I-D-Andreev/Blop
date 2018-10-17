@@ -1,0 +1,10 @@
+E:\C#\Blop\Blop\bin\Debug\Blop.exe.config
+E:\C#\Blop\Blop\bin\Debug\Blop.exe
+E:\C#\Blop\Blop\bin\Debug\Blop.pdb
+E:\C#\Blop\Blop\obj\Debug\Blop.csprojResolveAssemblyReference.cache
+E:\C#\Blop\Blop\obj\Debug\Blop.Form1.resources
+E:\C#\Blop\Blop\obj\Debug\Blop.Properties.Resources.resources
+E:\C#\Blop\Blop\obj\Debug\Blop.csproj.GenerateResource.Cache
+E:\C#\Blop\Blop\obj\Debug\Blop.exe
+E:\C#\Blop\Blop\obj\Debug\Blop.pdb
+E:\C#\Blop\Blop\obj\Debug\Blop.Resource1.resources

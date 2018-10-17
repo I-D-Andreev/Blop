@@ -1,0 +1,10 @@
+How to play:
+Chase Blop with your mouse (panda) and make him get the carrots. Each carrot adds you
+3 seconds to your timer. The game ends whenever you hit yourself in the borders or
+when the time expires.
+
+Levels: Easy - Blop moves diagonally
+	Hard - Blop moves complexly - each carrot adds you 2 bonus points
+
+Note: Best score is saved
+Disclaimer: Panda is taken from the internet
